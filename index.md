@@ -1,6 +1,6 @@
 ## Cornerstone Creations
 
-Hi welcome to Cornerstonestone Creations web pag. I am a developer and developing apps and electronic projects are my hobbies.
+Hi welcome to Cornerstonestone Creations web page. I am a developer and developing apps and electronic projects are my hobbies.
 
 
 
